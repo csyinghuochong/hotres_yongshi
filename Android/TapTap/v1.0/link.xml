@@ -1,0 +1,673 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AnimationSpeed" preserve="all" />
+    <type fullname="Assets.Scripts.Com.Game.Mono.ActorEffect" preserve="all" />
+    <type fullname="Assets.Scripts.Com.Game.Mono.DeactiveSelf" preserve="all" />
+    <type fullname="Assets.Scripts.Com.Game.Mono.EffectNode" preserve="all" />
+    <type fullname="Assets.Scripts.Com.Game.Mono.EffectScale" preserve="all" />
+    <type fullname="Assets.Scripts.Com.Game.Mono.PSStartRotation" preserve="all" />
+    <type fullname="Destroy" preserve="all" />
+    <type fullname="DestroyForTime" preserve="all" />
+    <type fullname="destroyMe" preserve="all" />
+    <type fullname="ExplodingProjectile" preserve="all" />
+    <type fullname="GAP_ParticleSystemController.ParticleSystemController" preserve="all" />
+    <type fullname="ParticleAutoDestruction" preserve="all" />
+    <type fullname="particleColorChanger" preserve="all" />
+    <type fullname="ParticleScaler" preserve="all" />
+    <type fullname="PigeonCoopToolkit.Effects.Trails.SmokeTrail" preserve="all" />
+    <type fullname="PigeonCoopToolkit.Effects.Trails.Trail" preserve="all" />
+    <type fullname="ProjectileMoveScript" preserve="all" />
+    <type fullname="ScrollUV" preserve="all" />
+    <type fullname="PigeonCoopToolkit.Effects.Trails.PCTrailRendererData" preserve="nothing" serialized="true" />
+    <type fullname="particleColorChanger/colorChange" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Reporter" preserve="all" />
+    <type fullname="ReporterMessageReceiver" preserve="all" />
+    <type fullname="T4MObjSC" preserve="all" />
+    <type fullname="Images" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="cn.sharesdk.unity3d, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="cn.sharesdk.unity3d.MobSDK" preserve="all" />
+    <type fullname="cn.sharesdk.unity3d.ShareSDK" preserve="all" />
+    <type fullname="cn.sharesdk.unity3d.DevInfoSet" preserve="nothing" serialized="true" />
+    <type fullname="cn.sharesdk.unity3d.QQ" preserve="nothing" serialized="true" />
+    <type fullname="cn.sharesdk.unity3d.QZone" preserve="nothing" serialized="true" />
+    <type fullname="cn.sharesdk.unity3d.SinaWeiboDevInfo" preserve="nothing" serialized="true" />
+    <type fullname="cn.sharesdk.unity3d.WeChat" preserve="nothing" serialized="true" />
+    <type fullname="cn.sharesdk.unity3d.WeChatFavorites" preserve="nothing" serialized="true" />
+    <type fullname="cn.sharesdk.unity3d.WeChatMoments" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="CodeStage.AntiCheat, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CodeStage.AntiCheat.Detectors.InjectionDetector" preserve="all" />
+    <type fullname="CodeStage.AntiCheat.Detectors.ObscuredCheatingDetector" preserve="all" />
+    <type fullname="CodeStage.AntiCheat.Common.ACTkByte4" preserve="nothing" serialized="true" />
+    <type fullname="CodeStage.AntiCheat.ObscuredTypes.ObscuredBool" preserve="nothing" serialized="true" />
+    <type fullname="CodeStage.AntiCheat.ObscuredTypes.ObscuredFloat" preserve="nothing" serialized="true" />
+    <type fullname="CodeStage.AntiCheat.ObscuredTypes.ObscuredInt" preserve="nothing" serialized="true" />
+    <type fullname="CodeStage.AntiCheat.ObscuredTypes.ObscuredLong" preserve="nothing" serialized="true" />
+    <type fullname="CodeStage.AntiCheat.ObscuredTypes.ObscuredString" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="ETC, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ETCInput" preserve="all" />
+    <type fullname="ETCJoystick" preserve="all" />
+    <type fullname="ETCAxis" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnDownDownHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnDownLeftHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnDownRightHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnDownUpHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnMoveEndHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnMoveHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnMoveSpeedHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnMoveStartHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnTouchStartHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnTouchUpHandler" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Game.Hotfix, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AI_1" preserve="all" />
+    <type fullname="AI_NPC" preserve="all" />
+    <type fullname="AI_NpcStoryBack" preserve="all" />
+    <type fullname="AI_Property" preserve="all" />
+    <type fullname="AI_Status" preserve="all" />
+    <type fullname="AIPet" preserve="all" />
+    <type fullname="AliComponent" preserve="all" />
+    <type fullname="Btn_GanXieMingDan" preserve="all" />
+    <type fullname="BuildingMainUI" preserve="all" />
+    <type fullname="BuildingModel" preserve="all" />
+    <type fullname="BuildingSet" preserve="all" />
+    <type fullname="CameraAI" preserve="all" />
+    <type fullname="CameraModel" preserve="all" />
+    <type fullname="CreateBossFuBen" preserve="all" />
+    <type fullname="DamgeFont" preserve="all" />
+    <type fullname="DoorWay" preserve="all" />
+    <type fullname="Effect_Size" preserve="all" />
+    <type fullname="ErrorLogOnGUIMyTools" preserve="all" />
+    <type fullname="EventHandle" preserve="all" />
+    <type fullname="FangChenMi" preserve="all" />
+    <type fullname="Function_AI" preserve="all" />
+    <type fullname="Game_PositionVar" preserve="all" />
+    <type fullname="GameLinkServer" preserve="all" />
+    <type fullname="GamePayLinkServer" preserve="all" />
+    <type fullname="GamePlayerSet" preserve="all" />
+    <type fullname="GameServerMessage" preserve="all" />
+    <type fullname="GameServerObj" preserve="all" />
+    <type fullname="GameSourceObj" preserve="all" />
+    <type fullname="GameStartImg" preserve="all" />
+    <type fullname="GameStartJianTouDong" preserve="all" />
+    <type fullname="GenSuiTarget" preserve="all" />
+    <type fullname="GetSignature" preserve="all" />
+    <type fullname="GooglePay" preserve="all" />
+    <type fullname="HuDunEffect" preserve="all" />
+    <type fullname="HuDunEffectZhuan" preserve="all" />
+    <type fullname="InitGame" preserve="all" />
+    <type fullname="ItemTipsUse" preserve="all" />
+    <type fullname="JianCeNpc" preserve="all" />
+    <type fullname="LingPai_RewardShow" preserve="all" />
+    <type fullname="Main_100001" preserve="all" />
+    <type fullname="Main_100002" preserve="all" />
+    <type fullname="Main_100003" preserve="all" />
+    <type fullname="Main_100005" preserve="all" />
+    <type fullname="Main_100006" preserve="all" />
+    <type fullname="Main_100007" preserve="all" />
+    <type fullname="Main_100008" preserve="all" />
+    <type fullname="MainTaskProcessor" preserve="all" />
+    <type fullname="MainUI_SkillGrid" preserve="all" />
+    <type fullname="MakeEquipNeedItem" preserve="all" />
+    <type fullname="MapCameraAI" preserve="all" />
+    <type fullname="MapPetTianTi" preserve="all" />
+    <type fullname="MaskYTongBu" preserve="all" />
+    <type fullname="MonsterActRange" preserve="all" />
+    <type fullname="MonsterSkill_AddBuff_1" preserve="all" />
+    <type fullname="MonsterSkill_ChongZhuang_1" preserve="all" />
+    <type fullname="MonsterSkill_Create_1" preserve="all" />
+    <type fullname="MonsterSkill_Create_2" preserve="all" />
+    <type fullname="MonsterSkill_DeleteMonster_1" preserve="all" />
+    <type fullname="MonsterSkill_FireWall" preserve="all" />
+    <type fullname="MonsterSkill_FireWall_2" preserve="all" />
+    <type fullname="MonsterSkill_FireWallOnce" preserve="all" />
+    <type fullname="MonsterSkill_Jiaxue_1" preserve="all" />
+    <type fullname="MonsterSkill_ModelSize_1" preserve="all" />
+    <type fullname="MonsterSkill_TargetMove_1" preserve="all" />
+    <type fullname="MonsterSkill_TargetMove_2" preserve="all" />
+    <type fullname="MonsterSkill_TriggerSkill_1" preserve="all" />
+    <type fullname="MonsterSkill_ZhongJi_1" preserve="all" />
+    <type fullname="PaiMaiHangItemShowList" preserve="all" />
+    <type fullname="PaiMaiSaleItemShow" preserve="all" />
+    <type fullname="PastureAI" preserve="all" />
+    <type fullname="PastureKuangSet" preserve="all" />
+    <type fullname="PastureSet" preserve="all" />
+    <type fullname="PetSkill_FireWallOnce" preserve="all" />
+    <type fullname="PetSkill_GuangHuan" preserve="all" />
+    <type fullname="PetSkill_LianJi" preserve="all" />
+    <type fullname="PetSkill_TargetMove_1" preserve="all" />
+    <type fullname="PetSkill_ZhongJi_1" preserve="all" />
+    <type fullname="PetSkillIcon" preserve="all" />
+    <type fullname="pingbizi" preserve="all" />
+    <type fullname="Player_Bone" preserve="all" />
+    <type fullname="Player_ShowDataListSet" preserve="all" />
+    <type fullname="Player_Status" preserve="all" />
+    <type fullname="QianDaoItemShow" preserve="all" />
+    <type fullname="Rose_Bone" preserve="all" />
+    <type fullname="Rose_ChengJiuDataShowList" preserve="all" />
+    <type fullname="Rose_ChengJiuList_row_UIPoint" preserve="all" />
+    <type fullname="Rose_ChengJiuList_Show" preserve="all" />
+    <type fullname="Rose_ChengJiuSet" preserve="all" />
+    <type fullname="Rose_Create_1" preserve="all" />
+    <type fullname="Rose_Create_2" preserve="all" />
+    <type fullname="Rose_CreateModel" preserve="all" />
+    <type fullname="Rose_PaiMaiHangList_row_UIPoint" preserve="all" />
+    <type fullname="Rose_PaiMaiHangList_Show" preserve="all" />
+    <type fullname="Rose_Proprety" preserve="all" />
+    <type fullname="Rose_SelectRange" preserve="all" />
+    <type fullname="Rose_SelectTarget" preserve="all" />
+    <type fullname="Rose_ShouShaList_row_UIPoint" preserve="all" />
+    <type fullname="Rose_ShouShaList_Show" preserve="all" />
+    <type fullname="Rose_ShowShouShaNanDuRewardList" preserve="all" />
+    <type fullname="Rose_ShowShouShaReward" preserve="all" />
+    <type fullname="Rose_SkillRange" preserve="all" />
+    <type fullname="Rose_Status" preserve="all" />
+    <type fullname="Rose_TaskList" preserve="all" />
+    <type fullname="Rose_TaskList_row_UIPoint" preserve="all" />
+    <type fullname="Rose_TaskList_Show" preserve="all" />
+    <type fullname="Rose_TaskList_TaskShow" preserve="all" />
+    <type fullname="RoseSkill_BaoFa" preserve="all" />
+    <type fullname="RoseSkill_BianShen" preserve="all" />
+    <type fullname="RoseSkill_ChaoFeng_1" preserve="all" />
+    <type fullname="RoseSkill_ChaoFeng_2" preserve="all" />
+    <type fullname="RoseSkill_ChaoFeng_3" preserve="all" />
+    <type fullname="RoseSkill_ChaoFeng_4" preserve="all" />
+    <type fullname="RoseSkill_ChongJi" preserve="all" />
+    <type fullname="RoseSkill_Jiaxue_1" preserve="all" />
+    <type fullname="RoseSkill_Jiaxue_2" preserve="all" />
+    <type fullname="RoseSkill_Jiaxue_3" preserve="all" />
+    <type fullname="RoseSkill_Jinghua" preserve="all" />
+    <type fullname="RoseSkill_LaJin" preserve="all" />
+    <type fullname="RoseSkill_OrbitBall" preserve="all" />
+    <type fullname="RoseSkill_PetJiaxue_1" preserve="all" />
+    <type fullname="RoseSkill_SelfAddBuff_1" preserve="all" />
+    <type fullname="RoseSkill_Sing_1" preserve="all" />
+    <type fullname="RoseSkill_XiXue" preserve="all" />
+    <type fullname="RoseSkill_ZhanSha_1" preserve="all" />
+    <type fullname="RoseSkill_ZhongJi_1" preserve="all" />
+    <type fullname="RoseSkillZhiShi" preserve="all" />
+    <type fullname="RunEff" preserve="all" />
+    <type fullname="Scence_TanSuo" preserve="all" />
+    <type fullname="ServerHuoDong_1" preserve="all" />
+    <type fullname="ShopList" preserve="all" />
+    <type fullname="ShowReprter" preserve="all" />
+    <type fullname="Skill_FireWall" preserve="all" />
+    <type fullname="Skill_FireWall_2" preserve="all" />
+    <type fullname="Skill_Move1" preserve="all" />
+    <type fullname="Skill_TargetMove_1" preserve="all" />
+    <type fullname="Skill_TargetMove_2" preserve="all" />
+    <type fullname="Skill_TargetMove_3" preserve="all" />
+    <type fullname="Skill_TargetMove_4" preserve="all" />
+    <type fullname="Skill_TargetMove_5" preserve="all" />
+    <type fullname="Skill_XianJing" preserve="all" />
+    <type fullname="SkillController" preserve="all" />
+    <type fullname="SkillEffectPosition" preserve="all" />
+    <type fullname="SkillObjBase" preserve="all" />
+    <type fullname="TestXinXi" preserve="all" />
+    <type fullname="TouZi" preserve="all" />
+    <type fullname="TouZi_Point" preserve="all" />
+    <type fullname="UI_ActTextSet" preserve="all" />
+    <type fullname="UI_AddPropertyShow" preserve="all" />
+    <type fullname="UI_AIHp" preserve="all" />
+    <type fullname="UI_AIPropertyShow" preserve="all" />
+    <type fullname="UI_Bag" preserve="all" />
+    <type fullname="UI_BagSpace" preserve="all" />
+    <type fullname="UI_BaoLvListShow" preserve="all" />
+    <type fullname="UI_BaoLvShowSet" preserve="all" />
+    <type fullname="UI_BeiFenData" preserve="all" />
+    <type fullname="UI_BossHp" preserve="all" />
+    <type fullname="UI_BuffShowListSet" preserve="all" />
+    <type fullname="UI_BuffShowObj" preserve="all" />
+    <type fullname="UI_BuildingName" preserve="all" />
+    <type fullname="UI_CaiJiItem" preserve="all" />
+    <type fullname="UI_ChapterSonSet" preserve="all" />
+    <type fullname="UI_ChengHaoXuanZe" preserve="all" />
+    <type fullname="UI_ChengHaoXuanZeList" preserve="all" />
+    <type fullname="UI_ChengJiuHintObj" preserve="all" />
+    <type fullname="UI_ChengJiuRewardNumSet" preserve="all" />
+    <type fullname="UI_ChengJiuRewardShowSet" preserve="all" />
+    <type fullname="UI_ChouKa" preserve="all" />
+    <type fullname="UI_ChouKaItemObj" preserve="all" />
+    <type fullname="UI_ChouKaNumRewardList" preserve="all" />
+    <type fullname="UI_ChouKaNumRewardSet" preserve="all" />
+    <type fullname="UI_Close" preserve="all" />
+    <type fullname="UI_CloseTips" preserve="all" />
+    <type fullname="UI_Common_ItemIcon" preserve="all" />
+    <type fullname="UI_Common_ItemIcon_2" preserve="all" />
+    <type fullname="UI_Common_PastureItemIcon" preserve="all" />
+    <type fullname="UI_CommonHint" preserve="all" />
+    <type fullname="UI_CommonHintlTips_1" preserve="all" />
+    <type fullname="UI_CommonHuoBiSet" preserve="all" />
+    <type fullname="UI_CommonItemShow_1" preserve="all" />
+    <type fullname="UI_CreateRose" preserve="all" />
+    <type fullname="UI_CreateRoseListObj" preserve="all" />
+    <type fullname="UI_CunMinDeXin" preserve="all" />
+    <type fullname="UI_DaMiJing_Reward" preserve="all" />
+    <type fullname="UI_DaMiJing_RewardList" preserve="all" />
+    <type fullname="UI_DayLiXianJingYan" preserve="all" />
+    <type fullname="UI_DayOlineHuoDongSet" preserve="all" />
+    <type fullname="UI_DayPracticeReward" preserve="all" />
+    <type fullname="UI_DayTask" preserve="all" />
+    <type fullname="UI_DayTaskList" preserve="all" />
+    <type fullname="UI_DayTaskRearwdHint" preserve="all" />
+    <type fullname="UI_DayTaskRewardSet" preserve="all" />
+    <type fullname="UI_DropName" preserve="all" />
+    <type fullname="UI_DuiHuanDaTing" preserve="all" />
+    <type fullname="UI_DuiHuanItemObj" preserve="all" />
+    <type fullname="UI_DuiHuanTitleObj" preserve="all" />
+    <type fullname="UI_EmenyActSet" preserve="all" />
+    <type fullname="UI_EnterGame" preserve="all" />
+    <type fullname="UI_EnterGameDataUpdata" preserve="all" />
+    <type fullname="UI_EnterPVE" preserve="all" />
+    <type fullname="UI_EnterPVESet" preserve="all" />
+    <type fullname="UI_EquipGemHoleSet" preserve="all" />
+    <type fullname="UI_EquipMake" preserve="all" />
+    <type fullname="UI_EquipMakeListObj" preserve="all" />
+    <type fullname="UI_EquipTips" preserve="all" />
+    <type fullname="UI_EquipUp" preserve="all" />
+    <type fullname="UI_EquipXiLian" preserve="all" />
+    <type fullname="UI_EquipXiLianItem" preserve="all" />
+    <type fullname="UI_EquipXiLianList" preserve="all" />
+    <type fullname="UI_ErrorLog" preserve="all" />
+    <type fullname="UI_FengYinZhiTaShow" preserve="all" />
+    <type fullname="UI_FightBtn" preserve="all" />
+    <type fullname="UI_FindRose" preserve="all" />
+    <type fullname="UI_FindRoseList" preserve="all" />
+    <type fullname="UI_FortressBuildReward" preserve="all" />
+    <type fullname="UI_FuBen_1" preserve="all" />
+    <type fullname="UI_FuBen_ShangHaiRewadSet" preserve="all" />
+    <type fullname="UI_FuBen_ShangHaiShow" preserve="all" />
+    <type fullname="UI_FuBenDropItemObj" preserve="all" />
+    <type fullname="UI_FubenList" preserve="all" />
+    <type fullname="UI_FunctionOpen" preserve="all" />
+    <type fullname="UI_GameFenXiang" preserve="all" />
+    <type fullname="UI_GameFenXiangSet" preserve="all" />
+    <type fullname="UI_GameGirdHint" preserve="all" />
+    <type fullname="UI_GameGirdHintSingle" preserve="all" />
+    <type fullname="UI_GameGongGao" preserve="all" />
+    <type fullname="UI_GameHint" preserve="all" />
+    <type fullname="UI_GameSetting" preserve="all" />
+    <type fullname="UI_GameSource" preserve="all" />
+    <type fullname="UI_GameUpdateHint" preserve="all" />
+    <type fullname="UI_GameYaoGan" preserve="all" />
+    <type fullname="UI_GameYinDao" preserve="all" />
+    <type fullname="UI_GameYinEffect" preserve="all" />
+    <type fullname="UI_GetherItem" preserve="all" />
+    <type fullname="UI_GiveNPC" preserve="all" />
+    <type fullname="UI_GuaJiSetting" preserve="all" />
+    <type fullname="UI_GuaJiYanZheng" preserve="all" />
+    <type fullname="UI_GuangBoList" preserve="all" />
+    <type fullname="UI_GuangBoText" preserve="all" />
+    <type fullname="UI_GuoWangDaTing" preserve="all" />
+    <type fullname="UI_HeZi" preserve="all" />
+    <type fullname="UI_HongBaoNameList" preserve="all" />
+    <type fullname="UI_HongBaoSet" preserve="all" />
+    <type fullname="UI_HuiShouItem" preserve="all" />
+    <type fullname="UI_HuoDong_BaoXiang" preserve="all" />
+    <type fullname="UI_HuoDong_ShouLie" preserve="all" />
+    <type fullname="UI_HuoDong_ShouLie_KillRewardList" preserve="all" />
+    <type fullname="UI_HuoDong_ShouLie_PaiMingXinXi" preserve="all" />
+    <type fullname="UI_HuoDong_Tower_RewardList" preserve="all" />
+    <type fullname="UI_HuoDong_TowerReward" preserve="all" />
+    <type fullname="UI_HuoDong_TowerShow" preserve="all" />
+    <type fullname="UI_HuoDongDaTing" preserve="all" />
+    <type fullname="UI_HuoDongDaTingDengLu" preserve="all" />
+    <type fullname="UI_HuoDongDaTingMeiRi" preserve="all" />
+    <type fullname="UI_HuoDongDengLuRewardShow" preserve="all" />
+    <type fullname="UI_HuoDongRewardLvList" preserve="all" />
+    <type fullname="UI_HuoDongRewardShiLiList" preserve="all" />
+    <type fullname="UI_IosPayHint" preserve="all" />
+    <type fullname="UI_ItemIcomShow" preserve="all" />
+    <type fullname="UI_ItemMakeLearnListObj" preserve="all" />
+    <type fullname="UI_ItemTips" preserve="all" />
+    <type fullname="UI_ItmeMakeLearn" preserve="all" />
+    <type fullname="UI_JingLingHintObj" preserve="all" />
+    <type fullname="UI_JingLingShow" preserve="all" />
+    <type fullname="UI_JingLingZhangJie" preserve="all" />
+    <type fullname="UI_JueXingJiHuoIconSet" preserve="all" />
+    <type fullname="UI_JueXingProDes" preserve="all" />
+    <type fullname="UI_JueXingSet" preserve="all" />
+    <type fullname="UI_LiXianShouYi" preserve="all" />
+    <type fullname="UI_Loading" preserve="all" />
+    <type fullname="UI_LvLiBao" preserve="all" />
+    <type fullname="UI_LvLiBao_MianFei" preserve="all" />
+    <type fullname="UI_LvLiBaoReward" preserve="all" />
+    <type fullname="UI_Mail" preserve="all" />
+    <type fullname="UI_MailHint" preserve="all" />
+    <type fullname="UI_MailList" preserve="all" />
+    <type fullname="UI_MainRosePastureData" preserve="all" />
+    <type fullname="UI_MainUIRoseExp" preserve="all" />
+    <type fullname="UI_MainUITask" preserve="all" />
+    <type fullname="UI_MainUITaskShow" preserve="all" />
+    <type fullname="UI_Map" preserve="all" />
+    <type fullname="UI_MapName" preserve="all" />
+    <type fullname="UI_MapNameShow" preserve="all" />
+    <type fullname="UI_MapTime" preserve="all" />
+    <type fullname="UI_MeiRiLiBao" preserve="all" />
+    <type fullname="UI_MeiRiLiBaoReward" preserve="all" />
+    <type fullname="UI_MonsterDeathTime" preserve="all" />
+    <type fullname="UI_Move" preserve="all" />
+    <type fullname="UI_MoveItemIcon" preserve="all" />
+    <type fullname="UI_MyTeamSet" preserve="all" />
+    <type fullname="UI_Npc_CangBaoTu" preserve="all" />
+    <type fullname="UI_Npc_DuiHuanShenShou" preserve="all" />
+    <type fullname="UI_NpcGetTask" preserve="all" />
+    <type fullname="UI_NPCName" preserve="all" />
+    <type fullname="UI_NpcStoreShow" preserve="all" />
+    <type fullname="UI_NpcStoreShow_2" preserve="all" />
+    <type fullname="UI_NpcTask" preserve="all" />
+    <type fullname="UI_NpcTaskList" preserve="all" />
+    <type fullname="UI_OffGameResource" preserve="all" />
+    <type fullname="UI_OpenCreateRose" preserve="all" />
+    <type fullname="UI_OpenFunctionHint" preserve="all" />
+    <type fullname="UI_OrnamentChoice" preserve="all" />
+    <type fullname="UI_PaiHang" preserve="all" />
+    <type fullname="UI_PaiHangListShow" preserve="all" />
+    <type fullname="UI_PaiHangListShow_DaMiJing" preserve="all" />
+    <type fullname="UI_PaiHangPetEquipShow" preserve="all" />
+    <type fullname="UI_PaiHangPetList" preserve="all" />
+    <type fullname="UI_PaiHangReward" preserve="all" />
+    <type fullname="UI_PaiHangRoseEquipItemShow" preserve="all" />
+    <type fullname="UI_PaiHangRoseEquipShow" preserve="all" />
+    <type fullname="UI_PaiHangShowPet" preserve="all" />
+    <type fullname="UI_PaiMaiChuShouShow" preserve="all" />
+    <type fullname="UI_PaiMaiHangSet" preserve="all" />
+    <type fullname="UI_PastureBag" preserve="all" />
+    <type fullname="UI_PastureBagSpace" preserve="all" />
+    <type fullname="UI_PastureDuiHuanDaTing" preserve="all" />
+    <type fullname="UI_PastureDuiHuanItemObj" preserve="all" />
+    <type fullname="UI_PastureDuiHuanTitleObj" preserve="all" />
+    <type fullname="UI_PastureFirendListSet" preserve="all" />
+    <type fullname="UI_PastureFirendListShow" preserve="all" />
+    <type fullname="UI_PastureFuMoSet" preserve="all" />
+    <type fullname="UI_PastureHeChengSet" preserve="all" />
+    <type fullname="UI_PastureItemFunctionSet" preserve="all" />
+    <type fullname="UI_PastureKuangListSet" preserve="all" />
+    <type fullname="UI_PastureKuangSet" preserve="all" />
+    <type fullname="UI_PastureKuangShowName" preserve="all" />
+    <type fullname="UI_PastureKuangShowTitle" preserve="all" />
+    <type fullname="UI_PastureMain" preserve="all" />
+    <type fullname="UI_PastureNpcBuySet" preserve="all" />
+    <type fullname="UI_PastureSellList" preserve="all" />
+    <type fullname="UI_PastureSellSet" preserve="all" />
+    <type fullname="UI_PastureShowDataListSet" preserve="all" />
+    <type fullname="UI_PastureShowDataViewSet" preserve="all" />
+    <type fullname="UI_PastureTraderShow" preserve="all" />
+    <type fullname="UI_PastureUpLvSet" preserve="all" />
+    <type fullname="UI_PastureXinXiList" preserve="all" />
+    <type fullname="UI_PastureXinXiSet" preserve="all" />
+    <type fullname="UI_Pet" preserve="all" />
+    <type fullname="UI_PetAddpProperty" preserve="all" />
+    <type fullname="UI_PetEquipShowSet" preserve="all" />
+    <type fullname="UI_PetHeCheng" preserve="all" />
+    <type fullname="UI_PetHeChengList" preserve="all" />
+    <type fullname="UI_PetHeChengXuanZe" preserve="all" />
+    <type fullname="UI_PetHeChengXuanZeList" preserve="all" />
+    <type fullname="UI_PetList" preserve="all" />
+    <type fullname="UI_PetTianTiList" preserve="all" />
+    <type fullname="UI_PetTianTiSet" preserve="all" />
+    <type fullname="UI_PetXiLian" preserve="all" />
+    <type fullname="UI_PetXiLianShow" preserve="all" />
+    <type fullname="UI_PetXiuLian" preserve="all" />
+    <type fullname="UI_PetZhaoHuanSet" preserve="all" />
+    <type fullname="UI_PetZhaoHuanShow" preserve="all" />
+    <type fullname="UI_PlayerHp" preserve="all" />
+    <type fullname="UI_PlayerPetHp" preserve="all" />
+    <type fullname="UI_QiangHuaStartIconShow" preserve="all" />
+    <type fullname="UI_QiTianDengLu" preserve="all" />
+    <type fullname="UI_RanSeList" preserve="all" />
+    <type fullname="UI_RanSeSet" preserve="all" />
+    <type fullname="UI_ReturnBuilding" preserve="all" />
+    <type fullname="UI_RewardGird" preserve="all" />
+    <type fullname="UI_RmbStore" preserve="all" />
+    <type fullname="UI_Rose_ShengXiao" preserve="all" />
+    <type fullname="UI_RoseDataSet" preserve="all" />
+    <type fullname="UI_RoseDeath" preserve="all" />
+    <type fullname="UI_RoseEquip" preserve="all" />
+    <type fullname="UI_RoseEquipQiangHua" preserve="all" />
+    <type fullname="UI_RoseEquipQiangHuaIcon" preserve="all" />
+    <type fullname="UI_RoseEquipQiangHuaPro" preserve="all" />
+    <type fullname="UI_RoseEquipShow" preserve="all" />
+    <type fullname="UI_RoseGetItemHint" preserve="all" />
+    <type fullname="UI_RoseHp" preserve="all" />
+    <type fullname="UI_RosePastureBag" preserve="all" />
+    <type fullname="UI_RoseSkill" preserve="all" />
+    <type fullname="UI_RoseSkillIconShow" preserve="all" />
+    <type fullname="UI_RoseSkillList" preserve="all" />
+    <type fullname="UI_RoseTargetIconSet" preserve="all" />
+    <type fullname="UI_SavePlayData" preserve="all" />
+    <type fullname="UI_SelectMoveType" preserve="all" />
+    <type fullname="UI_SellStoreList" preserve="all" />
+    <type fullname="UI_ServerListShow" preserve="all" />
+    <type fullname="UI_ServerListShowSet" preserve="all" />
+    <type fullname="UI_Set" preserve="all" />
+    <type fullname="UI_ShangHaiRewardShowList" preserve="all" />
+    <type fullname="UI_ShenFenXinXi" preserve="all" />
+    <type fullname="UI_ShiLianZhiTaObj" preserve="all" />
+    <type fullname="UI_ShiMingRenZhengReward" preserve="all" />
+    <type fullname="UI_ShouJiDaTing" preserve="all" />
+    <type fullname="UI_ShouJiItemObj" preserve="all" />
+    <type fullname="UI_ShouJiTitleObj" preserve="all" />
+    <type fullname="UI_SizeEffect_1" preserve="all" />
+    <type fullname="UI_SizeEffect_2" preserve="all" />
+    <type fullname="UI_SizeEffect_3" preserve="all" />
+    <type fullname="UI_SizeFangDa" preserve="all" />
+    <type fullname="UI_SkillBuffTips" preserve="all" />
+    <type fullname="UI_SkillTips" preserve="all" />
+    <type fullname="UI_StartGame" preserve="all" />
+    <type fullname="UI_StartGameFunc" preserve="all" />
+    <type fullname="UI_StoreHouse" preserve="all" />
+    <type fullname="UI_StoreHouseSpace" preserve="all" />
+    <type fullname="UI_StoreList" preserve="all" />
+    <type fullname="UI_StoreList_2" preserve="all" />
+    <type fullname="UI_StoreTextBack" preserve="all" />
+    <type fullname="UI_StorySpeakSet" preserve="all" />
+    <type fullname="UI_SuitNeedEquipName" preserve="all" />
+    <type fullname="UI_TaskTrophyList" preserve="all" />
+    <type fullname="UI_ThrowItemChoice" preserve="all" />
+    <type fullname="UI_TianFu" preserve="all" />
+    <type fullname="UI_TianFuIcon" preserve="all" />
+    <type fullname="UI_UpdatePlayData" preserve="all" />
+    <type fullname="UI_WaBaoPro" preserve="all" />
+    <type fullname="UI_WorldLvSet" preserve="all" />
+    <type fullname="UI_XiLianDaShi_Item" preserve="all" />
+    <type fullname="UI_XiLianDaShi_ItemNew" preserve="all" />
+    <type fullname="UI_XiLianDaShiListShow" preserve="all" />
+    <type fullname="UI_XiLianDaShiSet" preserve="all" />
+    <type fullname="UI_XuLieHao" preserve="all" />
+    <type fullname="UI_YaoGan" preserve="all" />
+    <type fullname="UI_YiJianShuShou" preserve="all" />
+    <type fullname="UI_ZhangJie" preserve="all" />
+    <type fullname="UI_ZhanQu_RewardLv" preserve="all" />
+    <type fullname="UI_ZhanQu_RewardShiLi" preserve="all" />
+    <type fullname="UI_ZhanQuHuoDong" preserve="all" />
+    <type fullname="UI_ZhanQuJinPai" preserve="all" />
+    <type fullname="UI_ZhengYingFuLi" preserve="all" />
+    <type fullname="UI_ZhenYingPlayerXuanZe" preserve="all" />
+    <type fullname="UI_ZhenYingRoseList" preserve="all" />
+    <type fullname="UI_ZhenYingSet" preserve="all" />
+    <type fullname="UI_ZhenYingSetting" preserve="all" />
+    <type fullname="UI_ZhenYingShiLiShowSet" preserve="all" />
+    <type fullname="UI_ZhenYingShop" preserve="all" />
+    <type fullname="UI_ZhenYingShouLie" preserve="all" />
+    <type fullname="UI_ZhenYingShouLieList" preserve="all" />
+    <type fullname="UI_ZhenYingXuanZe" preserve="all" />
+    <type fullname="UI_ZhenYingZhiWeiSetting" preserve="all" />
+    <type fullname="UI_ZhenYingZhiWeiXuanZeList" preserve="all" />
+    <type fullname="UI_ZhuLingSet" preserve="all" />
+    <type fullname="UI_ZhuLingShowList" preserve="all" />
+    <type fullname="UI_ZuoQiNengLiSet" preserve="all" />
+    <type fullname="UI_ZuoQiSet" preserve="all" />
+    <type fullname="UI_ZuoQiShouCangSet" preserve="all" />
+    <type fullname="UI_ZuoQiShouCangShowList" preserve="all" />
+    <type fullname="UI_ZuoQiShowSet" preserve="all" />
+    <type fullname="UI_ZuoQiXianJiSet" preserve="all" />
+    <type fullname="UI_ZuoWeiShiSet" preserve="all" />
+    <type fullname="WeChatComponent" preserve="all" />
+    <type fullname="WWWSet" preserve="all" />
+    <type fullname="XiLianEquipNeedItem" preserve="all" />
+    <type fullname="YanChiCreateEffect" preserve="all" />
+    <type fullname="YanChiEffect" preserve="all" />
+    <type fullname="YanZheng2" preserve="all" />
+    <type fullname="YinSi" preserve="all" />
+    <type fullname="YinSiXieYi" preserve="all" />
+    <type fullname="YongHuYinSi" preserve="all" />
+    <type fullname="ZhanQu_QianDao" preserve="all" />
+    <type fullname="ZuoQiShowModel" preserve="all" />
+  </assembly>
+  <assembly fullname="I2.Loc, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="I2.Loc.LanguageSource" preserve="all" />
+    <type fullname="I2.Loc.SetLanguage" preserve="all" />
+    <type fullname="I2.Loc.LanguageData" preserve="nothing" serialized="true" />
+    <type fullname="I2.Loc.LanguageSourceData" preserve="nothing" serialized="true" />
+    <type fullname="I2.Loc.TermData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AI.NavMeshAgent" preserve="all" />
+    <type fullname="UnityEngine.AI.NavMeshData" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.Flare" preserve="all" />
+    <type fullname="UnityEngine.FlareLayer" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.LensFlare" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LightingSettings" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.LightProbes" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Projector" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.RenderTexture" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.TrailRenderer" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.IMGUIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GUISkin" preserve="all" />
+    <type fullname="UnityEngine.GUISettings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.GUIStyle" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+    <type fullname="UnityEngine.CharacterController" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TerrainModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Terrain" preserve="all" />
+    <type fullname="UnityEngine.TerrainData" preserve="all" />
+    <type fullname="UnityEngine.TerrainLayer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TerrainPhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.TerrainCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+    <type fullname="UnityEngine.TextMesh" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.TouchInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
