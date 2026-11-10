@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-09-08-626",
-    "PackageNote": "2026/9/8 10:26:38",
+    "PackageVersion": "2026-11-10-1226",
+    "PackageNote": "2026/11/10 20:26:16",
     "AssetList": [
         {
             "Address": "",
@@ -74681,10 +74681,10 @@
         },
         {
             "BundleName": "assets_bundles_code.bundle",
-            "UnityCRC": 2837776401,
-            "FileHash": "c01fbb48b685d58a0821b142f0ed3ad6",
-            "FileCRC": 583023525,
-            "FileSize": 3342368,
+            "UnityCRC": 1146870490,
+            "FileHash": "0018d005e8048a04d33766a0929aca18",
+            "FileCRC": 828971222,
+            "FileSize": 3343709,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -74711,10 +74711,10 @@
         },
         {
             "BundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "UnityCRC": 4098265859,
-            "FileHash": "cb15ce61140e1e4390d81761f4e35590",
-            "FileCRC": 1777944307,
-            "FileSize": 54084,
+            "UnityCRC": 1544534327,
+            "FileHash": "d1ab2f0a91621c0a9e1422cf6388bb71",
+            "FileCRC": 3414392009,
+            "FileSize": 54079,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -92648,10 +92648,10 @@
         },
         {
             "BundleName": "assets_bundles_scenes_startgame.bundle",
-            "UnityCRC": 382201783,
-            "FileHash": "85d385b998a26bb0b8d692fd7b9dc875",
-            "FileCRC": 436653611,
-            "FileSize": 139381,
+            "UnityCRC": 545721710,
+            "FileHash": "7e4d15802adbafca9ec9aaa72da33778",
+            "FileCRC": 3184911728,
+            "FileSize": 139374,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
