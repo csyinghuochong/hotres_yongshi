@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.18",
         "UnityVersion": "2022.3.62f3c1",
-        "BuildDate": "9/8/2026 11:41:01 AM",
-        "BuildSeconds": 32,
+        "BuildDate": "11/10/2026 8:57:19 PM",
+        "BuildSeconds": 40,
         "BuildTarget": 9,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2026-09-08-700",
-        "BuildPackageNote": "9/8/2026 11:40:27 AM",
+        "BuildPackageVersion": "2026-11-10-1256",
+        "BuildPackageNote": "11/10/2026 8:56:37 PM",
         "UniqueBundleName": false,
         "EnableAddressable": false,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 9500,
         "MainAssetTotalCount": 6214,
         "AllBundleTotalCount": 3199,
-        "AllBundleTotalSize": 432393129,
+        "AllBundleTotalSize": 432394184,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -748,7 +748,7 @@
             "AssetGUID": "f3d0b80d983ed4d0185bca0343c3b38c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3358487,
+            "MainBundleSize": 3359553,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -758,7 +758,7 @@
             "AssetGUID": "4415995dd9cd54aad9a56acc5764987f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3358487,
+            "MainBundleSize": 3359553,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -768,7 +768,7 @@
             "AssetGUID": "7f42324e12e754f659f04939a63488db",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3358487,
+            "MainBundleSize": 3359553,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -778,7 +778,7 @@
             "AssetGUID": "e935c79ba2dae49f4a41b469be8460a7",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3358487,
+            "MainBundleSize": 3359553,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -788,7 +788,7 @@
             "AssetGUID": "4add702ae1c774670b3455dc4ee6ec85",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3358487,
+            "MainBundleSize": 3359553,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -798,7 +798,7 @@
             "AssetGUID": "c2b7738bd88a543caaee3b52cd9713b5",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3358487,
+            "MainBundleSize": 3359553,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -808,7 +808,7 @@
             "AssetGUID": "3032a35c2c3ae48d994284099d288fb6",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3358487,
+            "MainBundleSize": 3359553,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -818,7 +818,7 @@
             "AssetGUID": "ddbc8c84dda114de7b2b421ac68e21f4",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3358487,
+            "MainBundleSize": 3359553,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -828,7 +828,7 @@
             "AssetGUID": "6e4884d3ce54f42a8bf59aa9d2482288",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3358487,
+            "MainBundleSize": 3359553,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -838,7 +838,7 @@
             "AssetGUID": "9d44ccbf743264bbe88f2dc89f3686b5",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3358487,
+            "MainBundleSize": 3359553,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1395,10 +1395,10 @@
         {
             "Address": "",
             "AssetPath": "Assets/Bundles/Config/Set_Xml/10001/GameConfig.xml",
-            "AssetGUID": "5ea24189165ab44b5a5804a1027569f0",
+            "AssetGUID": "9e4c2c1c4f328408a99a0e759a61a856",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1408,7 +1408,7 @@
             "AssetGUID": "3cb38e1c56ba8844bb3cef693015bd11",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1418,7 +1418,7 @@
             "AssetGUID": "a9fa2a21523c53948aabbbb781732860",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1428,7 +1428,7 @@
             "AssetGUID": "9d143e749840e3a4495d00559aecf603",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1438,7 +1438,7 @@
             "AssetGUID": "f15233e001af4cf48be2a8677dccd2b0",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1448,7 +1448,7 @@
             "AssetGUID": "f05553008a24ec3419e215480c24d62f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1458,7 +1458,7 @@
             "AssetGUID": "ade27a60ced5ba84695e1761caff996f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1468,7 +1468,7 @@
             "AssetGUID": "81a8653afda9d8a4786553d37b1dd320",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1478,7 +1478,7 @@
             "AssetGUID": "25059a1722ffac34c998d702dcf9d2ea",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1488,7 +1488,7 @@
             "AssetGUID": "051a1589362f46c43a980167726a3a49",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1498,7 +1498,7 @@
             "AssetGUID": "785dd00db1db9cc47810909b488a4bd3",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1508,7 +1508,7 @@
             "AssetGUID": "af37b82cdc85644458891bb09edef027",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1518,7 +1518,7 @@
             "AssetGUID": "aca3924624ca15e488fdcf10f9dfcd44",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1528,7 +1528,7 @@
             "AssetGUID": "6abe6a3f3b5edbe4785202614f1048af",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1538,7 +1538,7 @@
             "AssetGUID": "1516c432a79ed564aba9052af3a35990",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 53637,
+            "MainBundleSize": 53634,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -104515,7 +104515,7 @@
             "AssetGUID": "ef4159caa9e8c4343a9f52c7bb9d1a69",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_scenes_startgame.bundle",
-            "MainBundleSize": 129315,
+            "MainBundleSize": 129307,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/BattleDragon/Dragons/Axe/Materials/skin.mat",
@@ -224977,10 +224977,10 @@
         },
         {
             "BundleName": "assets_bundles_code.bundle",
-            "FileName": "7a63747ffb08cf3c96bcb49b84c5829c.bundle",
-            "FileHash": "7a63747ffb08cf3c96bcb49b84c5829c",
-            "FileCRC": 4152743547,
-            "FileSize": 3358487,
+            "FileName": "34c3b21f359dca820bb00202389ee530.bundle",
+            "FileHash": "34c3b21f359dca820bb00202389ee530",
+            "FileCRC": 3051627277,
+            "FileSize": 3359553,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -225280,10 +225280,10 @@
         },
         {
             "BundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "FileName": "0210e0084b51b73bc4ec3c184f054a98.bundle",
-            "FileHash": "0210e0084b51b73bc4ec3c184f054a98",
-            "FileCRC": 3510080389,
-            "FileSize": 53637,
+            "FileName": "78ab37311cba2032e56f50361d1aa0e6.bundle",
+            "FileHash": "78ab37311cba2032e56f50361d1aa0e6",
+            "FileCRC": 1561486858,
+            "FileSize": 53634,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -225291,7 +225291,7 @@
             "BundleContents": [
                 {
                     "AssetPath": "Assets/Bundles/Config/Set_Xml/10001/GameConfig.xml",
-                    "AssetGUID": "5ea24189165ab44b5a5804a1027569f0"
+                    "AssetGUID": "9e4c2c1c4f328408a99a0e759a61a856"
                 },
                 {
                     "AssetPath": "Assets/Bundles/Config/Set_Xml/10001/RoseBag.xml",
@@ -263380,10 +263380,10 @@
         },
         {
             "BundleName": "assets_bundles_scenes_startgame.bundle",
-            "FileName": "3cd5aae21b2ef41c4016b1a6de64b06e.bundle",
-            "FileHash": "3cd5aae21b2ef41c4016b1a6de64b06e",
-            "FileCRC": 1905297191,
-            "FileSize": 129315,
+            "FileName": "e9420e135d8b66fbd57ea4dbaa74c368.bundle",
+            "FileHash": "e9420e135d8b66fbd57ea4dbaa74c368",
+            "FileCRC": 2317408406,
+            "FileSize": 129307,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
