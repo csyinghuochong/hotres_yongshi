@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-11-09-1225",
-    "PackageNote": "2026/11/9 20:25:16",
+    "PackageVersion": "2026-11-10-1132",
+    "PackageNote": "2026/11/10 18:52:02",
     "AssetList": [
         {
             "Address": "",
@@ -75693,20 +75693,20 @@
         },
         {
             "BundleName": "assets_bundles_code.bundle",
-            "UnityCRC": 2999403157,
-            "FileHash": "26ba33188a7016304ca44318d5c830d6",
-            "FileCRC": 3079271478,
-            "FileSize": 3346120,
+            "UnityCRC": 570711251,
+            "FileHash": "5616be338b35e9e1dcec34ca65f344d5",
+            "FileCRC": 1989603504,
+            "FileSize": 3346973,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
         },
         {
             "BundleName": "assets_bundles_config_get_xml.bundle",
-            "UnityCRC": 901479719,
-            "FileHash": "22eb4711b37849e21574a82c88cad15c",
-            "FileCRC": 569714552,
-            "FileSize": 4886307,
+            "UnityCRC": 2894736662,
+            "FileHash": "35952ba4fad22ba858ce00485113093a",
+            "FileCRC": 212137635,
+            "FileSize": 4886931,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -75723,10 +75723,10 @@
         },
         {
             "BundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "UnityCRC": 2543695161,
-            "FileHash": "3e80e155b6212a9ec31247ab15c7455b",
-            "FileCRC": 3185795553,
-            "FileSize": 54084,
+            "UnityCRC": 3583823996,
+            "FileHash": "8bf0b1ca94ba3e76c9c3aa0326e492d9",
+            "FileCRC": 2630939292,
+            "FileSize": 54081,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -77009,10 +77009,10 @@
         },
         {
             "BundleName": "assets_bundles_icon_tianfuicon.bundle",
-            "UnityCRC": 2171185424,
-            "FileHash": "621840d23e3556bf7b58e60b219c7958",
-            "FileCRC": 4171038937,
-            "FileSize": 559376,
+            "UnityCRC": 3729080898,
+            "FileHash": "3f3e47a21ec3addc405811762f88bab8",
+            "FileCRC": 2932598994,
+            "FileSize": 557280,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -93733,10 +93733,10 @@
         },
         {
             "BundleName": "assets_bundles_scenes_startgame.bundle",
-            "UnityCRC": 3036779829,
-            "FileHash": "c690eaec93c5f33db34cc5641fbb17a3",
-            "FileCRC": 782931946,
-            "FileSize": 156011,
+            "UnityCRC": 2877443947,
+            "FileHash": "d87e6546bb99e4cdf10ed7c0e28386ae",
+            "FileCRC": 758925094,
+            "FileSize": 156008,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
