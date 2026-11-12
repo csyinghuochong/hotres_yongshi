@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-11-10-1132",
-    "PackageNote": "2026/11/10 18:52:02",
+    "PackageVersion": "2026-11-12-964",
+    "PackageNote": "2026/11/12 16:04:08",
     "AssetList": [
         {
             "Address": "",
@@ -7048,6 +7048,14 @@
         {
             "Address": "",
             "AssetPath": "Assets/Bundles/Effect/Skill_Obj/Rose_Create_2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 53,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Effect/Skill_Obj/Rose_Create_3.prefab",
             "AssetGUID": "",
             "AssetTags": [],
             "BundleID": 53,
@@ -75261,6 +75269,8 @@
             "BundleID": 2838,
             "DependBundleIDs": [
                 31,
+                32,
+                33,
                 36,
                 169,
                 179,
@@ -75693,20 +75703,20 @@
         },
         {
             "BundleName": "assets_bundles_code.bundle",
-            "UnityCRC": 570711251,
-            "FileHash": "5616be338b35e9e1dcec34ca65f344d5",
-            "FileCRC": 1989603504,
-            "FileSize": 3346973,
+            "UnityCRC": 2895519033,
+            "FileHash": "e8708b12e023feea4f46a24fa61eef5f",
+            "FileCRC": 1748804549,
+            "FileSize": 3352064,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
         },
         {
             "BundleName": "assets_bundles_config_get_xml.bundle",
-            "UnityCRC": 2894736662,
-            "FileHash": "35952ba4fad22ba858ce00485113093a",
-            "FileCRC": 212137635,
-            "FileSize": 4886931,
+            "UnityCRC": 986653694,
+            "FileHash": "766591848683c3e225f61d196a84329d",
+            "FileCRC": 3958826929,
+            "FileSize": 4974738,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -75723,10 +75733,10 @@
         },
         {
             "BundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "UnityCRC": 3583823996,
-            "FileHash": "8bf0b1ca94ba3e76c9c3aa0326e492d9",
-            "FileCRC": 2630939292,
-            "FileSize": 54081,
+            "UnityCRC": 530207570,
+            "FileHash": "fe559898f59abd6562085b69649a1c9d",
+            "FileCRC": 625415599,
+            "FileSize": 54084,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -76451,10 +76461,10 @@
         },
         {
             "BundleName": "assets_bundles_effect_skill_obj.bundle",
-            "UnityCRC": 925356065,
-            "FileHash": "0c6ef315d404d02d02dbf271f76a42a3",
-            "FileCRC": 460077114,
-            "FileSize": 15263,
+            "UnityCRC": 2492080858,
+            "FileHash": "a7900ba34e4b1bf6d16ea588e9dcf72e",
+            "FileCRC": 2809103596,
+            "FileSize": 15473,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -169192,10 +169202,10 @@
         },
         {
             "BundleName": "assets_bundles_unit_petset_70009520.bundle",
-            "UnityCRC": 777618941,
-            "FileHash": "5ebde680a4a02288a199d9d3d4c13274",
-            "FileCRC": 3850269932,
-            "FileSize": 26851,
+            "UnityCRC": 2457388527,
+            "FileHash": "79c3574c65a3653acf882ae8fddb32fd",
+            "FileCRC": 923178306,
+            "FileSize": 26870,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -169386,10 +169396,10 @@
         },
         {
             "BundleName": "assets_bundles_unit_petset_70009521.bundle",
-            "UnityCRC": 2631595087,
-            "FileHash": "13857357c7207bd8be6ab52a1abeff93",
-            "FileCRC": 2335037985,
-            "FileSize": 29995,
+            "UnityCRC": 2607552963,
+            "FileHash": "aa0dfbfc0243fc43529419296c0a4feb",
+            "FileCRC": 1223924061,
+            "FileSize": 30009,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
@@ -169581,10 +169591,10 @@
         },
         {
             "BundleName": "assets_bundles_unit_petset_70009522.bundle",
-            "UnityCRC": 2273369191,
-            "FileHash": "5ca13086dc72673530942db3deb006f6",
-            "FileCRC": 2890093910,
-            "FileSize": 27473,
+            "UnityCRC": 4152962678,
+            "FileHash": "3c7d4288e7a13398d77253698b107ecb",
+            "FileCRC": 3512970601,
+            "FileSize": 28145,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [

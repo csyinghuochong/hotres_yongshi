@@ -158,6 +158,7 @@
     <type fullname="Rose_ChengJiuSet" preserve="all" />
     <type fullname="Rose_Create_1" preserve="all" />
     <type fullname="Rose_Create_2" preserve="all" />
+    <type fullname="Rose_Create_3" preserve="all" />
     <type fullname="Rose_CreateModel" preserve="all" />
     <type fullname="Rose_PaiMaiHangList_row_UIPoint" preserve="all" />
     <type fullname="Rose_PaiMaiHangList_Show" preserve="all" />
