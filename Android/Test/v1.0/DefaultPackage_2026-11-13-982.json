@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-11-12-990",
-    "PackageNote": "2026/11/12 16:30:40",
+    "PackageVersion": "2026-11-13-982",
+    "PackageNote": "2026/11/13 16:23:02",
     "AssetList": [
         {
             "Address": "",
@@ -75703,10 +75703,10 @@
         },
         {
             "BundleName": "assets_bundles_code.bundle",
-            "UnityCRC": 98427379,
-            "FileHash": "8cef64c21f885537e874c36b080e0f3c",
-            "FileCRC": 2206170370,
-            "FileSize": 3352065,
+            "UnityCRC": 3262562470,
+            "FileHash": "fca3f7994a627605e3dce805af280f75",
+            "FileCRC": 4203153715,
+            "FileSize": 3353925,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -75733,10 +75733,10 @@
         },
         {
             "BundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "UnityCRC": 530207570,
-            "FileHash": "fe559898f59abd6562085b69649a1c9d",
-            "FileCRC": 625415599,
-            "FileSize": 54084,
+            "UnityCRC": 661993594,
+            "FileHash": "b65b3e414efaa39c88f2e974d6854228",
+            "FileCRC": 1342915316,
+            "FileSize": 54082,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -76111,10 +76111,10 @@
         },
         {
             "BundleName": "assets_bundles_effect_skill.bundle",
-            "UnityCRC": 2590920368,
-            "FileHash": "190f4c36e32a81cc64ca23f961b7013f",
-            "FileCRC": 34167760,
-            "FileSize": 845383,
+            "UnityCRC": 3728320887,
+            "FileHash": "620d69dc28c3356ff1eeb9b0d175969c",
+            "FileCRC": 1948281600,
+            "FileSize": 845133,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [

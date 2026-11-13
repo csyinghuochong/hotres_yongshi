@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.18",
         "UnityVersion": "2022.3.62f3c1",
-        "BuildDate": "2026/11/12 16:32:09",
-        "BuildSeconds": 87,
+        "BuildDate": "2026/11/13 16:41:50",
+        "BuildSeconds": 1127,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2026-11-12-990",
-        "BuildPackageNote": "2026/11/12 16:30:40",
+        "BuildPackageVersion": "2026-11-13-982",
+        "BuildPackageNote": "2026/11/13 16:23:02",
         "UniqueBundleName": false,
         "EnableAddressable": false,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 9601,
         "MainAssetTotalCount": 6307,
         "AllBundleTotalCount": 3219,
-        "AllBundleTotalSize": 454590712,
+        "AllBundleTotalSize": 454592320,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -748,7 +748,7 @@
             "AssetGUID": "db1a99c4063262c4c8bccda233b4c069",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3352065,
+            "MainBundleSize": 3353925,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -758,7 +758,7 @@
             "AssetGUID": "99e3ea5ce8b0b4f49b6d0bbafb747c9c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3352065,
+            "MainBundleSize": 3353925,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -768,7 +768,7 @@
             "AssetGUID": "baf6d6a8fa47dfe4e89820e66621e68f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3352065,
+            "MainBundleSize": 3353925,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -778,7 +778,7 @@
             "AssetGUID": "fdaf3e1ab5500fb4eaf7fc05909e737f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3352065,
+            "MainBundleSize": 3353925,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -788,7 +788,7 @@
             "AssetGUID": "cdd10c173c936cb488b3c19e5e9aa182",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3352065,
+            "MainBundleSize": 3353925,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -798,7 +798,7 @@
             "AssetGUID": "627950d314aa3914988d1b5d69019f7c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3352065,
+            "MainBundleSize": 3353925,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -808,7 +808,7 @@
             "AssetGUID": "d14f01da572e8ca48b5943ed4e106164",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3352065,
+            "MainBundleSize": 3353925,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -818,7 +818,7 @@
             "AssetGUID": "e87eac40231babf4681e6472f2f7a482",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3352065,
+            "MainBundleSize": 3353925,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -828,7 +828,7 @@
             "AssetGUID": "ce4bee22ed653694fbdda782ef5d07cb",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3352065,
+            "MainBundleSize": 3353925,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -838,7 +838,7 @@
             "AssetGUID": "54ca8fb2c4bdd6d49a233ed0dbf9591f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_code.bundle",
-            "MainBundleSize": 3352065,
+            "MainBundleSize": 3353925,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1395,10 +1395,10 @@
         {
             "Address": "",
             "AssetPath": "Assets/Bundles/Config/Set_Xml/10001/GameConfig.xml",
-            "AssetGUID": "4a5d16c38cfd7bb4ea84bd90ab38c7d2",
+            "AssetGUID": "de8e98f896a3e3d418a6fce8bf8cadc3",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1408,7 +1408,7 @@
             "AssetGUID": "3cb38e1c56ba8844bb3cef693015bd11",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1418,7 +1418,7 @@
             "AssetGUID": "a9fa2a21523c53948aabbbb781732860",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1428,7 +1428,7 @@
             "AssetGUID": "9d143e749840e3a4495d00559aecf603",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1438,7 +1438,7 @@
             "AssetGUID": "f15233e001af4cf48be2a8677dccd2b0",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1448,7 +1448,7 @@
             "AssetGUID": "f05553008a24ec3419e215480c24d62f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1458,7 +1458,7 @@
             "AssetGUID": "ade27a60ced5ba84695e1761caff996f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1468,7 +1468,7 @@
             "AssetGUID": "81a8653afda9d8a4786553d37b1dd320",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1478,7 +1478,7 @@
             "AssetGUID": "25059a1722ffac34c998d702dcf9d2ea",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1488,7 +1488,7 @@
             "AssetGUID": "051a1589362f46c43a980167726a3a49",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1498,7 +1498,7 @@
             "AssetGUID": "785dd00db1db9cc47810909b488a4bd3",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1508,7 +1508,7 @@
             "AssetGUID": "af37b82cdc85644458891bb09edef027",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1518,7 +1518,7 @@
             "AssetGUID": "aca3924624ca15e488fdcf10f9dfcd44",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1528,7 +1528,7 @@
             "AssetGUID": "6abe6a3f3b5edbe4785202614f1048af",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1538,7 +1538,7 @@
             "AssetGUID": "1516c432a79ed564aba9052af3a35990",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "MainBundleSize": 54084,
+            "MainBundleSize": 54082,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -4399,7 +4399,7 @@
             "AssetGUID": "a996a17782079884ba184b60d841edd0",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TJTX_Textures_0109b.mat",
@@ -4430,7 +4430,7 @@
             "AssetGUID": "8a7ad8367fa8d3e43aff1e5f0c6da8b4",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Xingma_Atk_E/xingdian.anim",
@@ -4470,7 +4470,7 @@
             "AssetGUID": "bf6fef3d3a3edaa4c8012e0243a65de6",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Shuguang_Atk_Q/guang.controller",
@@ -4551,7 +4551,7 @@
             "AssetGUID": "d6ecc322ea756714180af10fe1c8e0e3",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Shuguang_Atk_Q/guang.controller",
@@ -4632,7 +4632,7 @@
             "AssetGUID": "8e15862558c902f42bc4406f068f33b0",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/game_effect_v01.2/met/Quzak_ground_002.mat",
@@ -4678,7 +4678,7 @@
             "AssetGUID": "0df6c0d52496014419e88182ead7d8c7",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Shuguang_Atk_Q/shuguangwuqi.controller",
@@ -4763,7 +4763,7 @@
             "AssetGUID": "7d54f1911d381ae4abaf3c5cf229d69c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Other/Warp/One-handQuicken_Light.mat",
@@ -4785,7 +4785,7 @@
             "AssetGUID": "4eef5d45dc8490c40ae0e057be3994bb",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TX_wuti_00189.mat",
@@ -4816,7 +4816,7 @@
             "AssetGUID": "a092cb9e6ae0a8e42992921df74b3c52",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TX_path_00268_M_1.mat",
@@ -4847,7 +4847,7 @@
             "AssetGUID": "38358d94e51b5dd4d992f5246602b65b",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/jiangsheng_Atk_E/Off.anim",
@@ -4947,7 +4947,7 @@
             "AssetGUID": "b27339cda1062254bb87c6605280930e",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Epic Toon FX/Materials/Glows/glow.mat",
@@ -4979,7 +4979,7 @@
             "AssetGUID": "d92d5f49a69eca04ca2836ee6ec67555",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Epic Toon FX/Materials/Glows/glow.mat",
@@ -5011,7 +5011,7 @@
             "AssetGUID": "e0f7109ca6b6b04419b06de280722e17",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Epic Toon FX/Materials/Glows/glow.mat",
@@ -5043,7 +5043,7 @@
             "AssetGUID": "f9c900125d47ea548a39acfdff977155",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Xingma_Atk_R/xz.anim",
@@ -5124,7 +5124,7 @@
             "AssetGUID": "fc9dcc69a69b8264e937c40bf214b7cd",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Other/Warp/One-handQuicken_Light.mat",
@@ -5146,7 +5146,7 @@
             "AssetGUID": "15c80ebd8b83549489576e82f7ed4455",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Import/plane3.FBX",
@@ -5190,7 +5190,7 @@
             "AssetGUID": "3ca5d2a8f7ce78d40bb52a3459af8ff0",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Xingma_Atk_E/xingdian.anim",
@@ -5230,7 +5230,7 @@
             "AssetGUID": "f804b5ea5ae31ad42ae4acc8820e362b",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Xingma_Atk_E/xingdian.anim",
@@ -5303,7 +5303,7 @@
             "AssetGUID": "71a773e98aba5644fb03818fbb5ef4da",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Texture/D_Hit_05.tga",
@@ -5334,7 +5334,7 @@
             "AssetGUID": "91a3338f8d877174a8c620975d0adcde",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/dilie02huiguang.mat",
@@ -5377,7 +5377,7 @@
             "AssetGUID": "17335115709ea494eba0d2590491752c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Other/Warp/One-handQuicken_Light.mat",
@@ -5399,7 +5399,7 @@
             "AssetGUID": "e2144a3ffc666e6499905c13e86003ec",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Import/huan.FBX",
@@ -5471,7 +5471,7 @@
             "AssetGUID": "eb2a203788ef29240a54580827e2bad2",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Import/huan.FBX",
@@ -5543,7 +5543,7 @@
             "AssetGUID": "13afb8f174d99cf4789383be8aabc5be",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TX_glow_00035.mat",
@@ -5619,7 +5619,7 @@
             "AssetGUID": "c56d7be404ebf6944949dd1d3c14c746",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TX2_glow_00229_5.mat",
@@ -5647,7 +5647,7 @@
             "AssetGUID": "50cfb3600f8ac744d8f82e8d68df6c33",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TX2_glow_00229_6.mat",
@@ -5675,7 +5675,7 @@
             "AssetGUID": "c7b2afd6e4d6f87499292f3608aafa14",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Other/Warp/One-handQuicken_Light.mat",
@@ -5697,7 +5697,7 @@
             "AssetGUID": "348639a5f43027949b1f564bc34afefd",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Blood_Splat.mat",
@@ -5768,7 +5768,7 @@
             "AssetGUID": "36d41393f6c4e7345bda4b1ec95b3b6a",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Blood_Splat.mat",
@@ -5815,7 +5815,7 @@
             "AssetGUID": "b4a87d6aa7c76e74fa0cf1d3f1c24267",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Blood_Splat.mat",
@@ -5862,7 +5862,7 @@
             "AssetGUID": "95fa7c26c8b72a745b0c0b10b5596edb",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/BeamDark.mat",
@@ -5949,7 +5949,7 @@
             "AssetGUID": "59b614f17945d4749a0fd696cd233655",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/BeamDark.mat",
@@ -6036,7 +6036,7 @@
             "AssetGUID": "9d5df6900ac332a4c8b3234920af0e02",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Circles/Mobile/Circle17_MobAddScroll.mat",
@@ -6186,7 +6186,7 @@
             "AssetGUID": "89a1ca1a0f3f3344b96ef09c7038b8e2",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/UniqueProjectiles_AB_8x8.mat",
@@ -6231,7 +6231,7 @@
             "AssetGUID": "a982fc5511fa77746a530d803bb73290",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/BeamDark.mat",
@@ -6318,7 +6318,7 @@
             "AssetGUID": "2e038655b270b114388889622d177431",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/Flames01_MobAdd_4x4.mat",
@@ -6386,7 +6386,7 @@
             "AssetGUID": "fa207409099a1db458684f8cca5dba86",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/Flames01_MobAdd_4x4.mat",
@@ -6436,7 +6436,7 @@
             "AssetGUID": "361d7b1ab2b023c4ba274a87945da23e",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/UniqueProjectiles_Additive_8x8.mat",
@@ -6489,7 +6489,7 @@
             "AssetGUID": "8437e0f5738e2f647b181f481c53a5b0",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/Anim/UV4x4.anim",
@@ -6534,7 +6534,7 @@
             "AssetGUID": "47a05aef86254ce41963be08b04db6e8",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Broken_Decal.mat",
@@ -6613,7 +6613,7 @@
             "AssetGUID": "c3dedf755b9321a48be540d95e2d8e5f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/BlackHole.mat",
@@ -6685,7 +6685,7 @@
             "AssetGUID": "ca2e9d491fa31e14ea03a04c956cc476",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/Models/Materials/No Name.mat",
@@ -6768,7 +6768,7 @@
             "AssetGUID": "45d77c73bd493e84db89ff9df909b246",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Fire_real.mat",
@@ -6807,7 +6807,7 @@
             "AssetGUID": "76e13311d6d3e3743b337e7ae05356b2",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/BlackHole.mat",
@@ -6879,7 +6879,7 @@
             "AssetGUID": "9262e8551f510b84bb35b4fca1d29388",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/shangguang01.mat",
@@ -6926,7 +6926,7 @@
             "AssetGUID": "234c57a2a9797bc44b5a88247a7d51f4",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Broken_Decal.mat",
@@ -7013,7 +7013,7 @@
             "AssetGUID": "2030996665d8c944ba305e1aedb2c735",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Common_XJ_penhuo_2_B/AN.controller",
@@ -7099,7 +7099,7 @@
             "AssetGUID": "03e6f593120f6724e9c4fe8de9730757",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Common_XJ_penquan2_B/Off.anim",
@@ -7196,7 +7196,7 @@
             "AssetGUID": "702994dd8a95d284b87ec0af2e0d3899",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Dajumo_Atk_Q/dilie.anim",
@@ -7277,7 +7277,7 @@
             "AssetGUID": "882573e5a8e7a414fb43873ad118ed9d",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TX_fangsheguang_00183.mat",
@@ -7324,7 +7324,7 @@
             "AssetGUID": "26980d3d1141df24ca5b6c6b87e24eaa",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Jiutong_Atk_Q/glow.anim",
@@ -7441,7 +7441,7 @@
             "AssetGUID": "03d0eceb6db76d34a8b36dcd1b9f4aac",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TX_glow_00178.mat",
@@ -7492,7 +7492,7 @@
             "AssetGUID": "1c21633f895902e448d0361f0f5db5a2",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TJEZTX_Textures_0021k2.mat",
@@ -7567,7 +7567,7 @@
             "AssetGUID": "70ba0331a6136424eb3e06873e4deeb0",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TX_fangsheguang_00041.mat",
@@ -7634,7 +7634,7 @@
             "AssetGUID": "63025ebbdc501664aa20b3473acbc9c0",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/dizhenbo1.mat",
@@ -7697,7 +7697,7 @@
             "AssetGUID": "a23337eea75014905b5a7dae421b00f3",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Import/bingkuai_02.FBX",
@@ -7781,7 +7781,7 @@
             "AssetGUID": "0663aab842c08544ba4c06a45079c1d5",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Blood_Splat.mat",
@@ -7852,7 +7852,7 @@
             "AssetGUID": "9fbf8f802740148b9884c1c18d3bcc9f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Jiutong_Atk_W/jiutong_gundong.anim",
@@ -8001,7 +8001,7 @@
             "AssetGUID": "70c699c4b298f47a596001221b93d1a1",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TX_fangsheguang_00158.mat",
@@ -8116,7 +8116,7 @@
             "AssetGUID": "2800222db47144da68f374a10d519f3b",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TJEZTX_Textures_0002b.mat",
@@ -8231,7 +8231,7 @@
             "AssetGUID": "20eb884e8f43d49738df0ae27b20996e",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Tanxianjia_Atk_Attack_4/gong_UV.anim",
@@ -8364,7 +8364,7 @@
             "AssetGUID": "75723cd597675c54cb8c7a23ec0f593d",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/RFX_Resources/RFX_Buff/Materials/Circle_Light01.mat",
@@ -8418,7 +8418,7 @@
             "AssetGUID": "03dc4396e6239b140932d7b51c31f6a1",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TJEZTX_Textures_0002c.mat",
@@ -8574,7 +8574,7 @@
             "AssetGUID": "87ccef7f745d3c6449cd1c0e6e64fbfb",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Light_Add.mat",
@@ -8662,7 +8662,7 @@
             "AssetGUID": "06c19b26fae44b247af399f7e59e7c36",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/falloffLightbeam.png",
@@ -8714,7 +8714,7 @@
             "AssetGUID": "b03c208bc8ab8fe4cb88bc64721c4561",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/BlackHole.mat",
@@ -8785,7 +8785,7 @@
             "AssetGUID": "2d2755ccac3fb9b4d9a490ddbf8d15d3",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Fire_real.mat",
@@ -8840,7 +8840,7 @@
             "AssetGUID": "4558e0b3275c2f4479a4385128aabb42",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Import/pen.FBX",
@@ -8948,7 +8948,7 @@
             "AssetGUID": "7aab276ac5a5a1d449c2e05e1f77af18",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Hounan_Atk_Q/huo1.controller",
@@ -9074,7 +9074,7 @@
             "AssetGUID": "3456de95f44e0284a955f9dcae0765e6",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/dilie.mat",
@@ -9161,7 +9161,7 @@
             "AssetGUID": "3fc22f7d9c809e943af988a5e3b51b9f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Import/mianpian.FBX",
@@ -9249,7 +9249,7 @@
             "AssetGUID": "1393ace08b681ee48b178fd35144f0e3",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Dajumo_Atk_SK1/daoguang.anim",
@@ -9358,7 +9358,7 @@
             "AssetGUID": "2035ee35609af5345b9ee87e8983764c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Juchuiweishi_Atk_W/dilie.anim",
@@ -9503,7 +9503,7 @@
             "AssetGUID": "64c36ae2478b9c142ac474fda7f9965b",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Jiutong_Atk_E/dupi.anim",
@@ -9592,7 +9592,7 @@
             "AssetGUID": "17e6263a1dffe423291fdd64f32baef9",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Dujiaoshou_Atk_Q/daoguang01.anim",
@@ -9709,7 +9709,7 @@
             "AssetGUID": "f0b3150d8535d8b4bb1ee2a868a0a995",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Bulong_Atk_W/dimian.anim",
@@ -9942,7 +9942,7 @@
             "AssetGUID": "09a789287814bbf44813dd9f72bc9f77",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic Ice Vol.1/Materials/M_ice_0001.mat",
@@ -10055,7 +10055,7 @@
             "AssetGUID": "b07ccd470e14f1749ac76d3343d77ea5",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Dujiaoshou_Atk_Q/daoguang01.anim",
@@ -10172,7 +10172,7 @@
             "AssetGUID": "5afd3455c775bf04b887ca6c70d9d64a",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Juchuiweishi_Atk_W/dilie.anim",
@@ -10421,7 +10421,7 @@
             "AssetGUID": "b5033cd96bb297c40a7c60ff843a21cb",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Juchuiweishi_Atk_W/dilie.anim",
@@ -10566,7 +10566,7 @@
             "AssetGUID": "90c26270a9f15d54dbfc38dc318eecdc",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TX_wenli_00483.mat",
@@ -10593,7 +10593,7 @@
             "AssetGUID": "862b79671d238e94594f8c7945774294",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Damowang_Atk_W/Cylinder002.controller",
@@ -10702,7 +10702,7 @@
             "AssetGUID": "c14c3e3d3a08ebf40946d729f91cac31",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Meirenyu_Atk_W/hailang_1.anim",
@@ -10799,7 +10799,7 @@
             "AssetGUID": "cf3c9af0bd58e3144b1231a536aedd08",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Meirenyu_Atk_W/hailang_1.anim",
@@ -10896,7 +10896,7 @@
             "AssetGUID": "5523d07e3dbf74646aedea6b456a2532",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Dianhaozi_Atk_W/dianwang1.anim",
@@ -11021,7 +11021,7 @@
             "AssetGUID": "e118a423c1cca8d4295bad41e59209cb",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Damowang_Atk_W/Cylinder002.controller",
@@ -11130,7 +11130,7 @@
             "AssetGUID": "473deeabdca9ef54a9369f561ab55318",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Niutouren_Atk_Q/dun.anim",
@@ -11211,7 +11211,7 @@
             "AssetGUID": "3af967da55eeffa41be1c7d47933fee0",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Common_Buff_dalong/nengliang.anim",
@@ -11316,7 +11316,7 @@
             "AssetGUID": "f4e4c10e0641044469ea03ba58082789",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Import/mianpian.FBX",
@@ -11364,7 +11364,7 @@
             "AssetGUID": "753f02561fbed844e831b4afce60f082",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Common_Buff_dalong/nengliang.anim",
@@ -11413,7 +11413,7 @@
             "AssetGUID": "554f91223d0a7b142bbde193d0bf87fe",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Damowang_Atk_W/Cylinder002.controller",
@@ -11522,7 +11522,7 @@
             "AssetGUID": "56e21d836b72775449e66245cd68800c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Niutouren_Atk_E/Niutou_001_tou.controller",
@@ -11628,7 +11628,7 @@
             "AssetGUID": "945299954221f0c4898a85052df043ad",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Niutouren_Atk_E/qiliu_2.anim",
@@ -11673,7 +11673,7 @@
             "AssetGUID": "049484cdc3a77604b93bd8e8f748c0ed",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/TX_glow_00116_M_1.mat",
@@ -11700,7 +11700,7 @@
             "AssetGUID": "32f47e5c5ad4bcb4cbe59bfff69dd6dc",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Trail01_Add.mat",
@@ -11767,7 +11767,7 @@
             "AssetGUID": "7563e4c4400526c44b8104d62b8fe86c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Trail01_Add.mat",
@@ -11790,7 +11790,7 @@
             "AssetGUID": "6a05008ef1fc9e74f9c1717365b8b892",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Trail01_Add.mat",
@@ -11857,7 +11857,7 @@
             "AssetGUID": "8a7bdbc316ca2824792205ed0a101541",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Trail01_Add.mat",
@@ -11880,7 +11880,7 @@
             "AssetGUID": "b7a528e905c7e03449b035514243e303",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Trail01_Add.mat",
@@ -11965,7 +11965,7 @@
             "AssetGUID": "e03d471442060524cb31f5914b12e091",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Texture/dust10.tif",
@@ -11988,7 +11988,7 @@
             "AssetGUID": "3af8fbccefa7ec9438c243b34caed168",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Trail01_Add.mat",
@@ -12063,7 +12063,7 @@
             "AssetGUID": "294ef5bce10d8b745870b6ebdf090e67",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Trail01_Add.mat",
@@ -12086,7 +12086,7 @@
             "AssetGUID": "298be942c35a9d943b1ea1c24cd750be",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Texture/dust10.tif",
@@ -12109,7 +12109,7 @@
             "AssetGUID": "3baaf58857dfd554bafda7476d222dc9",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic Ice Vol.1/Materials/M_ice_0016.mat",
@@ -12162,7 +12162,7 @@
             "AssetGUID": "860980a9bd59c4baf823e03b81197107",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/simpleFlash.png",
@@ -12201,7 +12201,7 @@
             "AssetGUID": "a722b4a35000d3a47bea2350d1774ad3",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/StylizedProjectilePack1/materials/bullet/bullet_line_additive.mat",
@@ -12288,7 +12288,7 @@
             "AssetGUID": "9c46103df33752d42a1c8b1fa01da315",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Trail01_Add.mat",
@@ -12363,7 +12363,7 @@
             "AssetGUID": "3fa8216f214fba34c85fcbcc4b8e0af7",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Circles/Mobile/Circle17_MobAddScroll.mat",
@@ -12515,7 +12515,7 @@
             "AssetGUID": "8b4ffdc6ec6f8fd44b8cda99c3a7fe52",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/Trail04_MobABScroll.mat",
@@ -12568,7 +12568,7 @@
             "AssetGUID": "690a6b390068a7e42b269b1265ddff2d",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/game_effect_v01.2/mesh/line_Plane001.FBX",
@@ -12628,7 +12628,7 @@
             "AssetGUID": "adcf87ac07bb6464fafb45abc91ba6b9",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Trail01_Add.mat",
@@ -12777,7 +12777,7 @@
             "AssetGUID": "59a8751ea9880c2419b44047d5636b09",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Trail01_Add.mat",
@@ -12800,7 +12800,7 @@
             "AssetGUID": "3e4de47aba5cbc44e8999d7a3b452290",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/UniqueProjectiles_AB_8x8.mat",
@@ -12859,7 +12859,7 @@
             "AssetGUID": "f50d85bd142494a4da2d1cebfe1ed08e",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [],
             "DependBundles": [
                 "unityshaders.bundle"
@@ -12871,7 +12871,7 @@
             "AssetGUID": "7281278a7d17e7b4d9a8fd3a264653b8",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Circles/Mobile/Circle17_MobAddScroll.mat",
@@ -13065,7 +13065,7 @@
             "AssetGUID": "beab31160485ca44ab04c97fe4ef4c1f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/Flames01_MobAdd_4x4.mat",
@@ -13147,7 +13147,7 @@
             "AssetGUID": "ceb993d2e7f60ab4a8aa624f4c06e24e",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/Square04_MobAdd.mat",
@@ -13170,7 +13170,7 @@
             "AssetGUID": "3f8e058f2f8aa6e43b4674d31eb32ce1",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/Flame_ABScroll_Mobile.mat",
@@ -13264,7 +13264,7 @@
             "AssetGUID": "269c8af0ded64df4fa3838afbb76c2a5",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/Square04_MobAdd.mat",
@@ -13287,7 +13287,7 @@
             "AssetGUID": "b053317e15243fe42b03395a8c7de263",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic Ice Vol.1/Materials/M_ice_0009.mat",
@@ -13372,7 +13372,7 @@
             "AssetGUID": "ae1d7d00b6821f24ba2dbc85683b9d46",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Common_Buff_dalong/nengliang.anim",
@@ -13463,7 +13463,7 @@
             "AssetGUID": "551c5ae17996cf248b0f586b2a8f1653",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Meirenyu_Atk_W/hailang_1.anim",
@@ -13588,7 +13588,7 @@
             "AssetGUID": "abb178cc1acd2554ebbfc0c5abb08a11",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [],
             "DependBundles": [
                 "unityshaders.bundle"
@@ -13600,7 +13600,7 @@
             "AssetGUID": "132b5641290975e43b61d66644f482bf",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Meirenyu_Atk_W/hailang_1.anim",
@@ -13725,7 +13725,7 @@
             "AssetGUID": "0d159b852b080f04a8c1d6995adaca53",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [],
             "DependBundles": [
                 "unityshaders.bundle"
@@ -13737,7 +13737,7 @@
             "AssetGUID": "b73b689ef980b1741bca6f358ee1695a",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/BlackHole.mat",
@@ -13825,7 +13825,7 @@
             "AssetGUID": "70234c844fb46d245a336a478ae24914",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [],
             "DependBundles": [
                 "unityshaders.bundle"
@@ -13837,7 +13837,7 @@
             "AssetGUID": "c8459f65eeeb84643972c783eb1dc13a",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Meirenyu_Atk_W/hailang_1.anim",
@@ -13938,7 +13938,7 @@
             "AssetGUID": "aba852dda54d27b419ec9d377b08378a",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Material/Eff_Skill_FireWall_02.mat",
@@ -14016,7 +14016,7 @@
             "AssetGUID": "07d60153674bac144a8e1d219cda9d7b",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Common_Buff_dalong/nengliang.anim",
@@ -14089,7 +14089,7 @@
             "AssetGUID": "36207332e34d29249b5d850000e51b89",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/Material/FireRain.mat",
@@ -14120,7 +14120,7 @@
             "AssetGUID": "1cfda9d8a190b524b8af783bef47bd03",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Broken_Decal.mat",
@@ -14215,7 +14215,7 @@
             "AssetGUID": "8e4ca7188e83a6045add5f9f3c2c2114",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [],
             "DependBundles": [
                 "unityshaders.bundle"
@@ -14227,7 +14227,7 @@
             "AssetGUID": "44e4141c514901c42a54971dd66dbcb3",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Fire_real.mat",
@@ -14266,7 +14266,7 @@
             "AssetGUID": "466c7229b02ff8049b27313ecb898c75",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/Models/helixDummy.FBX",
@@ -14312,7 +14312,7 @@
             "AssetGUID": "4d6e2fc512bbb5f4da0b6dcefd467e07",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Meirenyu_Atk_W/hailang_1.anim",
@@ -14437,7 +14437,7 @@
             "AssetGUID": "5e3404e48303e474bbec4ac8ee706f89",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/Material/Fire.mat",
@@ -14468,7 +14468,7 @@
             "AssetGUID": "bd3e7e16d25ee0e47b415dbccb2c786e",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/falloffLightbeam.png",
@@ -14523,7 +14523,7 @@
             "AssetGUID": "0172f6b4d19db6a4ba57c77abb52621f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/compassStar.png",
@@ -14569,7 +14569,7 @@
             "AssetGUID": "b42224d6dbefeba418c24a854b9421d9",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Arrows/simpleArrow.png",
@@ -14647,7 +14647,7 @@
             "AssetGUID": "ae58dc8c154bc8d4483583460c51ca92",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Arrows/simpleArrow.png",
@@ -14725,7 +14725,7 @@
             "AssetGUID": "e291ca5229069514ab00c63c2e74458a",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/Models/iceBlock.FBX",
@@ -14782,7 +14782,7 @@
             "AssetGUID": "f4852432546ee8b499a0fe4d261b16fb",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Xingma_Atk_Q/Yujing.controller",
@@ -14927,7 +14927,7 @@
             "AssetGUID": "d0ac47c3d54846448bbf3c265f3d9384",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Xingma_Atk_Q/Yujing.controller",
@@ -15072,7 +15072,7 @@
             "AssetGUID": "3e727f1e8d1557f4ea16848c29539165",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/dilie02huiguang.mat",
@@ -15115,7 +15115,7 @@
             "AssetGUID": "930f5261ba8c60444b4132ad5bd6c5eb",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/dilie02huiguang.mat",
@@ -15158,7 +15158,7 @@
             "AssetGUID": "5b03c94dd10a6094fa628aee3b4f963a",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/dilie02huiguang.mat",
@@ -15406,7 +15406,7 @@
             "AssetGUID": "c222bd1ab10444b4ca1dc374c8d53b24",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/RFX_Resources/RFX_Buff/Materials/Circle_Edge01.mat",
@@ -15486,7 +15486,7 @@
             "AssetGUID": "d780d4c29e677c8469a2074cf3125ff4",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/Models/Materials/01 - Default.mat",
@@ -15535,7 +15535,7 @@
             "AssetGUID": "3473537042f600b4dbfd72f20c135472",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/Models/Materials/No Name.mat",
@@ -15575,7 +15575,7 @@
             "AssetGUID": "a53a7c91a3552464cb6d3d71170b283f",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Material/Eff_Skill_HuoChong_02.mat",
@@ -15619,7 +15619,7 @@
             "AssetGUID": "d1008a4f4802bed4387edc0262ce1b1b",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Material/Eff_Skill_HuoChong_02.mat",
@@ -15667,7 +15667,7 @@
             "AssetGUID": "40481bb7bad9d314e91101cbc92830c4",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [],
             "DependBundles": [
                 "unityshaders.bundle"
@@ -15679,7 +15679,7 @@
             "AssetGUID": "52093285274b11f408652cd6f622e401",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/simpleFlash.png",
@@ -15726,7 +15726,7 @@
             "AssetGUID": "58aa42055e8575a488029dbc0aa7e116",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic Ice Vol.1/Materials/M_ice_0001.mat",
@@ -15823,7 +15823,7 @@
             "AssetGUID": "35cadf496c3181d4e9a3bfb797b01a01",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic Ice Vol.1/Materials/M_ice_0001.mat",
@@ -15896,7 +15896,7 @@
             "AssetGUID": "0f84cb5087e45454abadfb7faf5d1a49",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/Material/MoGuEffect.mat",
@@ -15942,7 +15942,7 @@
             "AssetGUID": "61c9447e0a1aa4e4b96029b5ab9e03d0",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/RFX_Resources/RFX_Buff/Materials/Circle_Edge01.mat",
@@ -16022,7 +16022,7 @@
             "AssetGUID": "2fee5953e3690fd458a2d4215be53136",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Circles/Mobile/Circle17_MobAddScroll.mat",
@@ -16192,7 +16192,7 @@
             "AssetGUID": "5b6e36b105ced3240bb9019628de906c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Building/Old/Other/Mushroom3B.fbx",
@@ -16248,7 +16248,7 @@
             "AssetGUID": "807259f261b8dfb4dac140bd001a2098",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Xingma_Atk_Q/Yujing.controller",
@@ -16321,7 +16321,7 @@
             "AssetGUID": "8fadd3b973a161443b3ba6a02a1178a8",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Shebishi_b_Atk_Q/pengqi.anim",
@@ -16434,7 +16434,7 @@
             "AssetGUID": "2ea125f224d9a91439061b420a2414f6",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/Material/Flare_Line01.mat",
@@ -16481,7 +16481,7 @@
             "AssetGUID": "682d0e7f51e0161419d31d914a7d5d5a",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/Models/Materials/zombieArm.mat",
@@ -16552,7 +16552,7 @@
             "AssetGUID": "a826837b760608d498e78ed1b170d10c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/falloffLightbeam.png",
@@ -16630,7 +16630,7 @@
             "AssetGUID": "f67201dae04517840af9831220949276",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/dilie02huiguang.mat",
@@ -16709,7 +16709,7 @@
             "AssetGUID": "a1f8b93ce2ceb8440aee7e431cade212",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Big_Circle.mat",
@@ -16780,7 +16780,7 @@
             "AssetGUID": "ae4184be767fd064096a23093c87e8e8",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Dujiaoshou_Atk_W/daoguang.anim",
@@ -16903,7 +16903,7 @@
             "AssetGUID": "96f15c5c89bc0d04c8b69b6249c2c035",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Building/Old/Stone/Materials/stone_001_011.mat",
@@ -16981,7 +16981,7 @@
             "AssetGUID": "010b1d11fd0bcff41b9a633343c60e2b",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Building/Old/Stone/Materials/stone_001_011.mat",
@@ -17069,7 +17069,7 @@
             "AssetGUID": "6122598615bd6044eac9db00d4be6130",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Damowang_Atk_W/Cylinder002.controller",
@@ -17178,7 +17178,7 @@
             "AssetGUID": "f150f85ddc2914db8af950bc2893d9eb",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/Models/Materials/No Name.mat",
@@ -17219,7 +17219,7 @@
             "AssetGUID": "55ff225cff8a0e54b96289dde94d2ea9",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Building/Old/Common/environment_common_zhangpeng_02_a.FBX",
@@ -17302,7 +17302,7 @@
             "AssetGUID": "d9bdb64f472fa0f42a8ab683038c8eba",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Building/Old/MaoXianDao2/Materials/Props_Ice.mat",
@@ -17367,7 +17367,7 @@
             "AssetGUID": "cf5b825a9ddaae943ab2669f30ef9d48",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Materials/ks01.mat",
@@ -17474,7 +17474,7 @@
             "AssetGUID": "c77c53e9fd4026549b74af4b60e6ed9c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Xingma_Atk_Q/Yujing.controller",
@@ -17547,7 +17547,7 @@
             "AssetGUID": "36861e9394fb4ba43be37a33a319a4fb",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Model/Eff_Skill_XuanFengZhan/FadeAnimation/Ground01.anim",
@@ -17599,7 +17599,7 @@
             "AssetGUID": "15cba3ff71e42dc49a8b9a03b74eae69",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/WuQi/Effects/Material/Slash03.mat",
@@ -17718,7 +17718,7 @@
             "AssetGUID": "2056c888a6fe68d4dab774ae771735db",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Blood_Splat.mat",
@@ -17781,7 +17781,7 @@
             "AssetGUID": "68a86b70d2a294a4e8f5b09bac4cd90d",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Model/Eff_Skill_XuanFengZhan/FadeAnimation/Ground01.anim",
@@ -17825,7 +17825,7 @@
             "AssetGUID": "6014eca6193b37d438fec4d91bf165e5",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Monster/Old/ShaMo/FuXing.controller",
@@ -17865,7 +17865,7 @@
             "AssetGUID": "ff4d20902f540154bbdc07545104d998",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Dujiaoshou_Atk_Q/daoguang01.anim",
@@ -17982,7 +17982,7 @@
             "AssetGUID": "c321b965b3541ec4bb1cb9080ba9a8ac",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/Models/Materials/No Name.mat",
@@ -18031,7 +18031,7 @@
             "AssetGUID": "f56b19948e30cf342bfdd436c91a5bf0",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Texture/ice_Floor.png",
@@ -18054,7 +18054,7 @@
             "AssetGUID": "5d3291b6478819d4499bd1c44c2eab29",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/ElectricBomb_Explosion_Add.mat",
@@ -18125,7 +18125,7 @@
             "AssetGUID": "ab749a1afb0439d40a65fc69a33e1454",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/ElectricBomb_Explosion_Add.mat",
@@ -18196,7 +18196,7 @@
             "AssetGUID": "2aa6110072182374795c53ae41fc7e91",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Heal_Decal.mat",
@@ -18243,7 +18243,7 @@
             "AssetGUID": "c30bd07ca76990a4a9847d3546021f83",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/basicRing.png",
@@ -18292,7 +18292,7 @@
             "AssetGUID": "9e3e971e8087c644c9fef3a560353037",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Texture/Magic 00817.png",
@@ -18315,7 +18315,7 @@
             "AssetGUID": "5ba9961394f279e4597b2fed0c9fd8e9",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Texture/Magic 00817.png",
@@ -18338,7 +18338,7 @@
             "AssetGUID": "3ede099946585474fbdf92ec2e6b5909",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/beam.mat",
@@ -18385,7 +18385,7 @@
             "AssetGUID": "c3e6bbe87df475548856a57604530925",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Common_Buff_dalong/nengliang.anim",
@@ -18450,7 +18450,7 @@
             "AssetGUID": "def7b22c6b1d07e4887d57a78ef462ac",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Fire_real.mat",
@@ -18497,7 +18497,7 @@
             "AssetGUID": "489200fd3b0752246972b9df78d1c35b",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Fire_real.mat",
@@ -18544,7 +18544,7 @@
             "AssetGUID": "edc88b2c140b8b84887380d56443cf6c",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Fire_real.mat",
@@ -19489,7 +19489,7 @@
             "AssetGUID": "76c53f8169d4db04597f642088c35071",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Animator/Mon_Damowang_Atk_W/Cylinder002.controller",
@@ -19616,7 +19616,7 @@
             "AssetGUID": "4aee9f43f742d014cbd3c715cf3bc03d",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_02/Effect_Source/LvUp/LvUp_Pillar.png",
@@ -19665,7 +19665,7 @@
             "AssetGUID": "23ebd58e277c1d3489cf36b35b5f660b",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/ArtEffects/Import/zhayao.FBX",
@@ -19705,7 +19705,7 @@
             "AssetGUID": "78e2a9d52614d0541b24b7ab3b39c835",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Bundles/Effect/Skill/Texture/dust10.tif",
@@ -19728,7 +19728,7 @@
             "AssetGUID": "d5403793b83de7648b0c33ad35e4d64e",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_02/Effect_Source/Critical Strike/Impact.mat",
@@ -19767,7 +19767,7 @@
             "AssetGUID": "b7ac3cf1050567f45a6019951a3b986a",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_02/Effect_Source/Critical Strike/Impact.mat",
@@ -19806,7 +19806,7 @@
             "AssetGUID": "71ddc3058dd0a734e85f3a4793df787d",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_01/Skill_Sword/Material/Bom.mat",
@@ -19868,7 +19868,7 @@
             "AssetGUID": "af0e4903bd2ea274bb9ab19c26a70cd0",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_01/Skill_Sword/Model/Bom_Main.FBX",
@@ -19913,7 +19913,7 @@
             "AssetGUID": "92e1850688a076c459a13e73015abd43",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_02/Effect_Source/Critical Strike/Impact.mat",
@@ -19976,7 +19976,7 @@
             "AssetGUID": "328cb03cdbb8bab49ababb0a9d5ca8b4",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_02/Effect_Source/Critical Strike/Impact.mat",
@@ -20031,7 +20031,7 @@
             "AssetGUID": "9a6a335c0adc13745835da15494baa82",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/simpleLightbeam.png",
@@ -20731,7 +20731,7 @@
             "AssetGUID": "d5b5484426c6d9f4dbb99297432502fa",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [],
             "DependBundles": [
                 "unityshaders.bundle"
@@ -20743,7 +20743,7 @@
             "AssetGUID": "3077f56250aef0a4ba4fa62bad7f56fc",
             "AssetTags": [],
             "MainBundleName": "assets_bundles_effect_skill.bundle",
-            "MainBundleSize": 845383,
+            "MainBundleSize": 845133,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtResource/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Trail01_Add.mat",
@@ -228176,10 +228176,10 @@
         },
         {
             "BundleName": "assets_bundles_code.bundle",
-            "FileName": "8cef64c21f885537e874c36b080e0f3c.bundle",
-            "FileHash": "8cef64c21f885537e874c36b080e0f3c",
-            "FileCRC": 2206170370,
-            "FileSize": 3352065,
+            "FileName": "fca3f7994a627605e3dce805af280f75.bundle",
+            "FileHash": "fca3f7994a627605e3dce805af280f75",
+            "FileCRC": 4203153715,
+            "FileSize": 3353925,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -228479,10 +228479,10 @@
         },
         {
             "BundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "FileName": "fe559898f59abd6562085b69649a1c9d.bundle",
-            "FileHash": "fe559898f59abd6562085b69649a1c9d",
-            "FileCRC": 625415599,
-            "FileSize": 54084,
+            "FileName": "b65b3e414efaa39c88f2e974d6854228.bundle",
+            "FileHash": "b65b3e414efaa39c88f2e974d6854228",
+            "FileCRC": 1342915316,
+            "FileSize": 54082,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -228490,7 +228490,7 @@
             "BundleContents": [
                 {
                     "AssetPath": "Assets/Bundles/Config/Set_Xml/10001/GameConfig.xml",
-                    "AssetGUID": "4a5d16c38cfd7bb4ea84bd90ab38c7d2"
+                    "AssetGUID": "de8e98f896a3e3d418a6fce8bf8cadc3"
                 },
                 {
                     "AssetPath": "Assets/Bundles/Config/Set_Xml/10001/RoseBag.xml",
@@ -231579,10 +231579,10 @@
         },
         {
             "BundleName": "assets_bundles_effect_skill.bundle",
-            "FileName": "190f4c36e32a81cc64ca23f961b7013f.bundle",
-            "FileHash": "190f4c36e32a81cc64ca23f961b7013f",
-            "FileCRC": 34167760,
-            "FileSize": 845383,
+            "FileName": "620d69dc28c3356ff1eeb9b0d175969c.bundle",
+            "FileHash": "620d69dc28c3356ff1eeb9b0d175969c",
+            "FileCRC": 1948281600,
+            "FileSize": 845133,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
