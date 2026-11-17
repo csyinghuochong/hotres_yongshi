@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-11-16-999",
-    "PackageNote": "2026/11/16 16:39:05",
+    "PackageVersion": "2026-11-17-1015",
+    "PackageNote": "2026/11/17 16:55:50",
     "AssetList": [
         {
             "Address": "",
@@ -75733,10 +75733,10 @@
         },
         {
             "BundleName": "assets_bundles_config_set_xml_10001.bundle",
-            "UnityCRC": 1009075714,
-            "FileHash": "a3aeed9c100c1c1143be08ff8642a81c",
-            "FileCRC": 3486001179,
-            "FileSize": 54077,
+            "UnityCRC": 3999885286,
+            "FileHash": "b201225b93160951377e2a05eb9d1db9",
+            "FileCRC": 4113502233,
+            "FileSize": 54084,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
